@@ -1,0 +1,1 @@
+Testing implementation of headless CMS solution, Strapi, with integration to React application.
